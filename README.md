@@ -26,9 +26,12 @@ Número de linhas: 1000000000
 DOWNLOAD DO ARQUIVO: https://drive.google.com/file/d/17QTkukxQPIypNqXatLq9ZJLBlB0VRx3U/view?usp=sharing
 
 #### Resultado
-Soma total dos valores: ***
-Tempo com 12 threads 78 seg
-Aluno: Samuel de Souza
+Soma total dos valores: 17178
+
+
+Aluno: Samuel de Souza / Tempo com 12 threads 78 seg
+
+Aluno: Oliver Henrique Ferreira / tempo com 12 threads 181 seg
 
 DESAFAFIO FINAL !
 
